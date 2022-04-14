@@ -1,0 +1,33 @@
+.my_nav_bar{
+    position: sticky;
+    top: 0;
+    z-index: 99999;
+    float: top;
+}
+body{
+    text-align: center;
+}
+#sport{
+    width:1000px;
+}
+h5{
+    font-size: 20px;
+}
+.travel_mainDiv{
+    border: 1px solid black;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none;
+}
+p{
+    color:black;
+    font-size: 20px;
+}
+h4{
+    font-size: 25;
+}
+.travel_mainDiv hr{
+     width: 230px;
+     
+ 
+}
